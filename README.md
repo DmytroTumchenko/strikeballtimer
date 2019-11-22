@@ -15,10 +15,10 @@ Admin is able to:
 - start game
 - stop game
 - set duration of the game
-- hide/show results of counting for players (to save intrigue till the end of the game end)
 
 Changing setting is available via http from any mobile device witch is available after connection to the WiFi of the timer. Timer could be turned on/off to save energy.
 
 ## Features
 - In case of lost of power Timer will save currect stats to the EEPROM (energy non-volatile memory)
-- OLED display will show 
+- OLED display will show current status for all teams (could be adjusted by admin)
+- hide/show results of counting for players (to save intrigue till the end of the game end)
