@@ -26,3 +26,5 @@ Changing setting is available via HTTP from any mobile device witch is available
 - In case of loss of power, Timer will save current stats to the EEPROM (energy non-volatile memory)
 - The OLED display will show current status for all teams (could be adjusted by admin)
 - hide/show results of counting for players (to save intrigue till the end of the game end)
+
+![electroscheme of strikeball timer](strikeball timer_bb.png)
