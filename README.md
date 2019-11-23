@@ -27,4 +27,8 @@ Changing setting is available via HTTP from any mobile device witch is available
 - The OLED display will show current status for all teams (could be adjusted by admin)
 - hide/show results of counting for players (to save intrigue till the end of the game end)
 
+# Scheme of elecric part
 ![electroscheme of strikeball timer](strikeball%20timer_bb.png)
+
+# Wireframe of browser view of admin side
+![wireframe images](strike_timer_wireframe.png)
