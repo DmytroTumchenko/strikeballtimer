@@ -1,0 +1,341 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "AndroidPhone",
+                    "zOrder": "0",
+                    "measuredW": "356",
+                    "measuredH": "725",
+                    "x": "38",
+                    "y": "0",
+                    "locked": "true",
+                    "properties": {
+                        "resizing": "stretch"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Label",
+                    "zOrder": "1",
+                    "w": "296",
+                    "measuredW": "264",
+                    "measuredH": "36",
+                    "x": "68",
+                    "y": "120",
+                    "properties": {
+                        "text": "Military games timer",
+                        "size": "28",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Label",
+                    "zOrder": "2",
+                    "measuredW": "71",
+                    "measuredH": "21",
+                    "x": "72",
+                    "y": "163",
+                    "properties": {
+                        "text": "point name::"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "Button",
+                    "zOrder": "3",
+                    "w": "141",
+                    "h": "55",
+                    "measuredW": "103",
+                    "measuredH": "27",
+                    "x": "72",
+                    "y": "228",
+                    "properties": {
+                        "text": "Start mission"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "Button",
+                    "zOrder": "4",
+                    "w": "143",
+                    "h": "55",
+                    "measuredW": "100",
+                    "measuredH": "27",
+                    "x": "221",
+                    "y": "228",
+                    "properties": {
+                        "text": "Stop mission"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "w": "292",
+                    "measuredW": "134",
+                    "measuredH": "32",
+                    "x": "72",
+                    "y": "184",
+                    "properties": {
+                        "text": "Radar position",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "6",
+                    "measuredW": "109",
+                    "measuredH": "21",
+                    "x": "72",
+                    "y": "328",
+                    "properties": {
+                        "text": "Set new time limit:"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "7",
+                    "w": "292",
+                    "measuredW": "91",
+                    "measuredH": "32",
+                    "x": "72",
+                    "y": "349",
+                    "properties": {
+                        "text": "4h 30min",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Label",
+                    "zOrder": "8",
+                    "w": "292",
+                    "measuredW": "255",
+                    "measuredH": "26",
+                    "x": "72",
+                    "y": "292",
+                    "properties": {
+                        "size": "18",
+                        "text": "Current timelimit:\t3h 23min 15s"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Button",
+                    "zOrder": "9",
+                    "w": "292",
+                    "h": "55",
+                    "measuredW": "98",
+                    "measuredH": "27",
+                    "x": "72",
+                    "y": "389",
+                    "properties": {
+                        "text": "Set timelimit"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Label",
+                    "zOrder": "10",
+                    "measuredW": "37",
+                    "measuredH": "21",
+                    "x": "87",
+                    "y": "460",
+                    "properties": {
+                        "text": "Points"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Label",
+                    "zOrder": "11",
+                    "measuredW": "24",
+                    "measuredH": "26",
+                    "x": "95",
+                    "y": "495",
+                    "properties": {
+                        "size": "18",
+                        "color": "9684093",
+                        "text": "46"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Label",
+                    "zOrder": "12",
+                    "measuredW": "23",
+                    "measuredH": "26",
+                    "x": "94",
+                    "y": "541",
+                    "properties": {
+                        "size": "18",
+                        "color": "15843890",
+                        "text": "32"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Label",
+                    "zOrder": "13",
+                    "measuredW": "22",
+                    "measuredH": "26",
+                    "x": "95",
+                    "y": "587",
+                    "properties": {
+                        "size": "18",
+                        "color": "14706278",
+                        "text": "76"
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "TextInput",
+                    "zOrder": "14",
+                    "w": "56",
+                    "measuredW": "38",
+                    "measuredH": "32",
+                    "x": "149",
+                    "y": "492",
+                    "properties": {
+                        "size": "18",
+                        "text": "46"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextInput",
+                    "zOrder": "15",
+                    "w": "56",
+                    "measuredW": "37",
+                    "measuredH": "32",
+                    "x": "149",
+                    "y": "538",
+                    "properties": {
+                        "size": "18",
+                        "text": "32"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextInput",
+                    "zOrder": "16",
+                    "w": "56",
+                    "measuredW": "36",
+                    "measuredH": "32",
+                    "x": "149",
+                    "y": "584",
+                    "properties": {
+                        "size": "18",
+                        "text": "76"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "Button",
+                    "zOrder": "17",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "51",
+                    "measuredH": "27",
+                    "x": "221",
+                    "y": "492",
+                    "properties": {
+                        "size": "18",
+                        "text": "set"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "Button",
+                    "zOrder": "18",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "77",
+                    "measuredH": "27",
+                    "x": "296",
+                    "y": "492",
+                    "properties": {
+                        "size": "18",
+                        "text": "revert"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Button",
+                    "zOrder": "19",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "51",
+                    "measuredH": "27",
+                    "x": "221",
+                    "y": "538",
+                    "properties": {
+                        "size": "18",
+                        "text": "set"
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Button",
+                    "zOrder": "20",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "77",
+                    "measuredH": "27",
+                    "x": "296",
+                    "y": "538",
+                    "properties": {
+                        "size": "18",
+                        "text": "revert"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Button",
+                    "zOrder": "21",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "51",
+                    "measuredH": "27",
+                    "x": "221",
+                    "y": "584",
+                    "properties": {
+                        "size": "18",
+                        "text": "set"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Button",
+                    "zOrder": "22",
+                    "w": "69",
+                    "h": "32",
+                    "measuredW": "77",
+                    "measuredH": "27",
+                    "x": "296",
+                    "y": "584",
+                    "properties": {
+                        "size": "18",
+                        "text": "revert"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 1",
+            "order": 938428.5264654435,
+            "parentID": null
+        },
+        "resourceID": "2278E287-509B-183B-1098-2EC38DDDB7D8",
+        "mockupH": "725",
+        "mockupW": "356",
+        "measuredW": "394",
+        "measuredH": "725",
+        "version": "1.0"
+    }
+}
