@@ -1,0 +1,72 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta charset="utf-8">
+  <title>Military games timer</title>
+  
+  <link rel="stylesheet" href="timer.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1>Military games timer</h1>
+  <form>
+    <fieldset>
+      <label for="point_name"> Point name</label>
+      <input type="text" name="point_name" placeholder="Radar site"/>      
+      <input type="submit" value="Change" /> 
+    </fieldset>
+  </form>
+
+  <form>
+    <fieldset>      
+      <legend>Game control</legend>
+      <button type="button" class="start-button" >Start mission</button>
+      <button type="button" class="pause-button" >Pause mission</button>
+    </fieldset>
+  </form>
+
+  <div>Current timelimit:</div>
+  <div id="timelimit_value">3h 23min 15s</div>
+
+  <form>
+    <fieldset>  
+      <label for="set_new_timelimit">Set new timelimit</label>
+      <input type="text" placeholder="4h 30min" />
+      <input type="submit" value="Set timelimit" /> 
+    </fieldset>
+  </form>
+
+  <h2>Points</h2>
+  <form class="points" id="green_team">
+    <fieldset>
+      <span>46</span>
+      <input type="number" value="46" />
+      <input type="submit" value="set" />
+      <input type="button" value="revert" />
+    </fieldset>
+  </form>
+  <form class="points" id="yellow_team">
+    <fieldset>
+      <span>32</span>
+      <input type="number" value="32" />
+      <input type="submit" value="set" />
+      <input type="button" value="revert" />
+    </fieldset>
+    
+  </form>
+  <form class="points" id="blue_team">
+    <fieldset>
+      <span>76</span>
+      <input type="number" value="76" />
+      <input type="submit" value="set" />
+      <input type="button" value="revert" />
+    </fieldset>    
+  </form>
+</body>
+
+</html>
